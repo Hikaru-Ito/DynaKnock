@@ -1,0 +1,5 @@
+PyAudio==0.2.7
+librosa==0.5.1
+numpy==1.13.3
+scikits.talkbox==0.2.5
+scipy==0.19.1
